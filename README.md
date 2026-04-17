@@ -31,7 +31,7 @@ This project builds and compares two ML models to predict a student's final exam
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/student-performance-prediction
+git clone https://github.com/Jagrutiz/student-performance-prediction
 
 # Install dependencies
 pip install pandas numpy scikit-learn
